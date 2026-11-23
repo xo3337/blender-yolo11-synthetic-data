@@ -1,0 +1,16 @@
+# Blender autosaves / backups
+*.blend1
+*.blend2
+*.blend@
+# Generated dataset output
+images/
+labels/
+dataset/
+# Python
+__pycache__/
+*.pyc
+# OS
+Thumbs.db
+.DS_Store
+# Empty placeholder (script lives in scripts/)
+the code in txt.txt
